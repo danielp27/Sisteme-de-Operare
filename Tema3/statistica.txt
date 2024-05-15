@@ -1,0 +1,9 @@
+Numărul total de litere mari: 72
+A - 11
+C - 11
+I - 10
+M - 12
+N - 1
+S - 1
+T - 2
+Y - 24
